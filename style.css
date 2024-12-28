@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+
+
+nav{
+   margin: 20px 0px;
+   text-align: center;
+   padding: 20px 0px;
+   background-color: green;
+   text-decoration: none;
+}
+
+nav a {
+    text-decoration: none;
+    padding-right: 60px; 
+    color: white;
+}
+.contacts2{
+    background-color: navy;
+    color: yellow;
+    padding: 10px 25px;
+    border-radius: 10px;
+}
+
+.contacts{
+    background-color: navy;
+    color: red;
+    padding: 10px 25px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+footer {
+    background-color: peru;
+    color: white;
+}
+main p {
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid navy;
+    border-radius: 15px
+}
+h2{
+    font-size: 30px;
+}
+h1{
+    border-bottom: 2px solid black;
+    text-transform: uppercase;
+}
+img{
+    width: 200px;
+    height: 150px;
+    text-align: center;
+}
